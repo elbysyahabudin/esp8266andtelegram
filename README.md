@@ -1,1 +1,1 @@
-- Make sure intall the required library (Universalbottelegram)
+- Make sure to install the required library (Universalbottelegram)
